@@ -8,4 +8,4 @@ ls -l (long list format)
 ls -a (hide file)
 ls -R (show all folder and file with this one command )
 ls -h (human read able show MB ,GB ,KB from this folder and file )
-ls -F (
+ls -F ( / - folder @ - symbolic * -execte file )
